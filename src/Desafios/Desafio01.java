@@ -15,7 +15,7 @@ public class Desafio01 {
         String nomeNinja1 = "Naruto";
         int idade1 = 14;
         String misaoNinja1 = "Atravessar o Rio";
-        char nivelMissao1 = 'C';
+        char nivelMissao1 = 'A';
         String statusMissao1 = "Em andamento";
 
         if (idade1 < 15) {
